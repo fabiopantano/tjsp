@@ -1,3 +1,2 @@
 install.packages("remotes")
-remotes::install_github("jjesusfilho/tjsp")
-
+remotes::install_github("fabiopantano/tjsp")
