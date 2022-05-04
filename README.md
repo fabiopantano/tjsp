@@ -1,2 +1,2 @@
 library(tjsp)
-baixar_cjsg(livre="feminicídio",diretorio=".")
+baixar_cjsg(livre="feminicídio",diretorio="tjsp")
