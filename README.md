@@ -1,2 +1,2 @@
-# tjsp
-DadosTjsp
+library(tjsp)
+baixar_cjsg(livre="feminicídio",diretorio=".")
